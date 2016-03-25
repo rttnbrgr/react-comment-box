@@ -1,0 +1,17 @@
+[
+  { 
+  	"id": 1, 
+  	"author": "Michael Jordan",
+  	"text": "I'm number 1!"
+  },
+  { 
+  	"id": 2, 
+  	"author": "Chef Curry",
+  	"text": "Not for long..." 
+  },
+  { 
+  	"id": 3, 
+  	"author": "Petty Wap", 
+  	"text": "Yeaaaaa *baby* We ub hson" 
+  }
+]
