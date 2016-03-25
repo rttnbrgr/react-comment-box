@@ -1,0 +1,35 @@
+body {
+	background-color: #ccc;
+}
+
+.comment__box {
+	border: 1px solid black;
+	max-width: 700px;
+	margin: 0 auto;
+	/*padding: 0.3rem;*/
+}
+
+.comment {
+	background-color: #eee;
+	margin-bottom: 0;
+	overflow: hidden;
+	/*padding: .4rem;*/
+}
+
+.comment:nth-child(even) {
+	background-color: #fff;
+}
+
+
+
+.comment__author {
+	margin: 0;
+	background-color: rgba(5,5,5,.05);
+	padding: .3rem .5rem;
+}
+
+.comment span {
+	overflow: hidden;
+	padding: 0 .5rem;
+	display: block;
+}
